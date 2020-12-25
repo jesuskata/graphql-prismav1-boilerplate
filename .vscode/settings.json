@@ -1,0 +1,23 @@
+{
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#e95f23",
+    "activityBar.activeBorder": "#17e856",
+    "activityBar.background": "#e95f23",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#17e856",
+    "activityBarBadge.foreground": "#15202b",
+    "statusBar.background": "#c54a14",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#e95f23",
+    "titleBar.activeBackground": "#c54a14",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#c54a1499",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#c54a14"
+}
